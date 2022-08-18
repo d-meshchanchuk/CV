@@ -1,1 +1,1 @@
-![Drag Racing](cv.png)
+![Drag Racing](my_cv.png)
